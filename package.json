@@ -1,6 +1,6 @@
 {
   "name": "type-safe-microcms-query",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Make type-safed microCMS fields parameters using by Template Literal Types",
   "main": "index.js",
   "scripts": {
